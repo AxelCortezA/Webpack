@@ -1,4 +1,6 @@
 import getData from '../utils/getData.js';
+ 
+
 
 const Template = async () => {
   const data = await getData();
